@@ -1,6 +1,6 @@
 # mat_command
 
-A batch file that enables 'mat' commands to open matlab.exe
+A batch file that enables `mat` command to run MATLAB `*.m` files from the command line. Who wants to open MATLAB anyways?
 
 ## Basic Setup
 
