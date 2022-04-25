@@ -1,10 +1,12 @@
 # Nicer CMD Commands
 
 - **mat.bat** 
-A batch file that enables `mat` command to run MATLAB `*.m` files from the command line. Who wants to open MATLAB anyways?
+    
+    A batch file that enables `mat` command to run MATLAB `*.m` files from the command line. Who wants to open MATLAB anyways?
 
 - **show.bat**
-A batch file that enables the `show` command, which is pretty much combining the `cd` and `dir` commands in the Windows command prompt.
+    
+    A batch file that enables the `show` command, which is pretty much combining the `cd` and `dir` commands in the Windows command prompt.
 
 ## Basic Setup
 
